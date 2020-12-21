@@ -2,5 +2,9 @@
   {
     "name": "amendes.gouv.fr",
     "url": "https://www.amendes.gouv.fr"
+  },
+  {
+    "message": "messages",
+    "content": "csssontent"
   }
 ]
